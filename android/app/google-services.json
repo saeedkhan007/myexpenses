@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1061427981195",
+    "project_id": "javademon-first-project-6ee7c",
+    "storage_bucket": "javademon-first-project-6ee7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061427981195:android:e14a0e070a5cdd8c841d8e",
+        "android_client_info": {
+          "package_name": "com.dem.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAvlNW4PIMAGWu-B6aL2Bcr3Rr8cLtLZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061427981195:android:f0d329c3863eecfc841d8e",
+        "android_client_info": {
+          "package_name": "com.jav.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAvlNW4PIMAGWu-B6aL2Bcr3Rr8cLtLZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
